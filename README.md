@@ -6,4 +6,4 @@ Prácticas propias realizadas para el procesamiento de imágenes.
 
 
 # 2_Introduction_Example_for_Image_Processing_Parte2
-![alt text](image.png)
+![image](https://github.com/jorengar/ProcessingImageExample/assets/20663593/f8c15bca-6ddb-4349-a3f5-c277f3aed155)
