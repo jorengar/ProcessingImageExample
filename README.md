@@ -16,3 +16,8 @@ Prácticas propias realizadas para el procesamiento de imágenes.
 
 # Deber_Procesamiento_de_Imagen
 ![image](https://github.com/jorengar/ProcessingImageExample/assets/20663593/396b2a9d-96f8-4cce-989d-685b7f152f5e)
+
+# 5_Geometric_Transformation
+![image](https://github.com/jorengar/ProcessingImageExample/assets/20663593/767c02cd-7e3a-49e6-98be-44b2c9169b88)
+
+
