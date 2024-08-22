@@ -17,7 +17,7 @@ Prácticas propias realizadas para el procesamiento de imágenes.
 # 5_Geometric_Transformation
 ![image](https://github.com/jorengar/ProcessingImageExample/assets/20663593/767c02cd-7e3a-49e6-98be-44b2c9169b88)
 
-#6_Select_color_and_zoom
+# 6_Select_color_and_zoom
 ![image](https://github.com/user-attachments/assets/d162cdfe-d56c-4a90-9258-83a66e45f26c)
 
 
